@@ -59,7 +59,7 @@ Je vise à devenir **développeur web fullstack**, capable de créer des **sites
 
 ## 📬 Me contacter  
 - 📧 **Email** : ```matheo.maussant@ynov.com``` 
-- 💼 **LinkedIn** : [En cours de finalisation](#)  
+- 💼 **LinkedIn** : [[Matheo Maussant](https://www.linkedin.com/in/mathéo-maussant-3ba538341)]  
 - 🐙 **GitHub** : [Matheo-Msst](https://github.com/Matheo-Msst)
 
 ---
