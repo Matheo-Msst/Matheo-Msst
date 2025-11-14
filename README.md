@@ -12,16 +12,17 @@ Mes priorités actuelles sont de :
 - Apprendre à structurer un backend efficace, même s’il reste perfectible  
 - Être capable de déployer des applications complètes, fonctionnelles et maintenables  
 
-Je vise à devenir **développeur web fullstack**, capable de créer des **sites, applications web et logiciels complets** côté frontend comme backend.
+Je vise à devenir **développeur web fullstack ou developpeur logiciel**, capable de créer des **sites, applications web et logiciels complets** côté frontend comme backend.
 
 ---
 
 ## 🎮 Loisirs & Centres d’intérêt  
 - 🕹️ Jeux vidéo & jeux de stratégie  
-- 🎨 Dessin  
-- 🥾 Marche & randonnée  
+- 🎨 Dessin    
 - 🗣️ Discussions et débats  
 - 📺 Vidéos éducatives (informatique, développement, design UI/UX)
+- 📺 Séries et Films
+- 🎵 Musique
 
 ---
 
